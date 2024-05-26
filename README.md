@@ -1,2 +1,1 @@
-# simongame
-examploe game
+# simons-game
